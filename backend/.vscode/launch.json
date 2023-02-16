@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IronnestgymApplication<ironnestgym>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ironnestgym.IronnestgymApplication",
+            "projectName": "ironnestgym",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
